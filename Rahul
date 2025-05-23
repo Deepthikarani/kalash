@@ -1,0 +1,6 @@
+login-video-site/
+├── index.html         ← Login page
+├── login.php          ← PHP script to save login info & redirect
+├── video.html         ← Video player page
+├── yourvideo.mp4      ← Your video file
+└── log.txt            ← Stores email + password entries
